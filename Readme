@@ -1,0 +1,11 @@
+Healthchecker:
+	Healthchecker Directory contains all files that will run on healthchecker machine.
+	Wrapper script is LanHealthChecker.py 
+	Execution: 
+		./LanHealthChecker.py
+  
+Monitor:
+	Monitor directory contains all files that will run on monitor machine.
+	Wrapper script is Monitor.py
+	Execution:
+		./Monitor.py
